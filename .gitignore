@@ -35,8 +35,6 @@ log.html
 output.xml
 report.html
 selenium-screenshot-*.png
-*.png
-pabot_results/
 .pabot_lock
 
 # Node.js (Appium)
