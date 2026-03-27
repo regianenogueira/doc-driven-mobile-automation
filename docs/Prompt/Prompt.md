@@ -1,0 +1,1 @@
+Com base nos documentos docs\alarm-project implemente o teste e preencha o arquivo README.md com informações necessarias de como executar o projeto.
