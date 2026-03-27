@@ -14,9 +14,9 @@ POC que implementa testes automatizados para criação de alarmes no app de Rel�
 
 ### Vídeo da Automação em Ação
 
-https://github.com/user-attachments/assets/amostra.mp4
 
-<video src="docs/.img/amostra.mp4" width="100%" controls></video>
+
+<video src="docs/.img/amostra.gif" width="100%" controls></video>
 
 ### Modelo de Arquitetura
 ![Modelo de Arquitetura](docs/.img/modelo.png)
