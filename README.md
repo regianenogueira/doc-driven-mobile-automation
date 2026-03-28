@@ -20,9 +20,13 @@ Este projeto segue uma metodologia **documentation-driven** onde a documentaçã
 
 ### Fluxo de Trabalho
 
+![Modelo de Arquitetura](docs/.img/modelo.png)
+
 ```
 1. PRD (O QUE testar) → 2. Elements (ONDE testar) → 3. SDD (COMO implementar) → 4. Testes Robot
 ```
+
+
 
 ### 1️⃣ **PRD (Product Requirements Document)**
 Define **o que** deve ser testado:
@@ -78,8 +82,6 @@ Com base nos documentos anteriores:
 
 ![Demonstração da Automação](docs/.img/amostra.gif)
 
-### Modelo de Arquitetura
-![Modelo de Arquitetura](docs/.img/modelo.png)
 
 ## 🏗️ Estrutura
 
@@ -212,3 +214,5 @@ robot --outputdir results tests/
 Projeto de demonstração e fins educacionais.
 
 ---
+
+**Versão**: 1.0.0 | **Robot Framework**: 7.0.1 | **Appium**: 2.x
