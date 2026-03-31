@@ -20,11 +20,15 @@ Este projeto segue uma metodologia **documentation-driven** onde a documentaçã
 
 ### Fluxo de Trabalho
 
-![Modelo de Arquitetura](docs/.img/modelo.png)
+![Fluxo de Trabalho](docs/.img/modelo.png)
+
+👉 <a href="https://regianenogueira.github.io/docs/guia-metodologia-qa-sdd.html" target="_blank" rel="noopener noreferrer">Guia de Uso</a>
 
 ```
 1. PRD (O QUE testar) → 2. Elements (ONDE testar) → 3. SDD (COMO implementar) → 4. Testes Robot
 ```
+
+
 
 
 
